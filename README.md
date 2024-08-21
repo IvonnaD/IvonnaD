@@ -1,5 +1,5 @@
 🌈 About me 
-- Hi there! I'm Ivonna, an enthusiastic amateur programmer with a passion for learning and creating.
+- Hi there! I'm Ivonna, an enthusiastic programmer with a passion for learning and creating.
 - I'm constantly exploring new technologies and working on personal projects to sharpen my skills.
 
 🏆 Goals
