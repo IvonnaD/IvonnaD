@@ -1,6 +1,5 @@
-🌈 About me 
-- Hi there! I'm Ivonna, an enthusiastic programmer with a passion for learning and creating.
-- I'm constantly exploring new technologies and working on personal projects to sharpen my skills.
+Hi there! I'm Ivonna, an enthusiastic programmer with a passion for learning and creating. 
+I'm constantly exploring new technologies and working on personal projects to sharpen my skills.
 
 🏆 Goals
 - Contribute to open-source projects and collaborate with other developers.
@@ -8,4 +7,4 @@
 - Continuously improve my coding skills and work towards becoming a full-stack developer.
 
 ✨ Fun Facts
-- When I'm not coding, you can find me reading about neuroscience, walking shelter dogs or hiking.
+- When I'm not coding, you can find me reading about neuroscience, walking shelter dogs or photographing nature. 
